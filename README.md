@@ -2,6 +2,7 @@
 This is a dummy network driver for understanding this creates dummy interface after inserting the module.
 
 1)create "Makefile" and add this to it
+
 obj-m := Net_new0.o
 
 2)Run in command line :
