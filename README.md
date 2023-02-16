@@ -20,4 +20,4 @@ ifconfig dummy0 192.162.10.0
 
 6)ping this ip
 
-
+7)check logs using dmesg 
